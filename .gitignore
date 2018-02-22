@@ -1,3 +1,3 @@
-nobel.pdf
-nobel.log
-nobel.aux
+*.pdf
+*.log
+*.aux
