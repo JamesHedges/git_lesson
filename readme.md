@@ -1,3 +1,7 @@
+#H1 Git Essential Lessons
+
+#H2 Lesson 1 - Add / Commit
+
 This repository contains the files used for a git lesson.
 
 this is another line
