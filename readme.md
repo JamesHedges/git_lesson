@@ -11,3 +11,10 @@ this is the third
 change 4 - lets look at the diff
 
 one more
+
+## An Example of a code block
+
+    foreach(var x in xes)
+    {
+        doSomething(x);
+    }
