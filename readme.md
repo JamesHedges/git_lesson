@@ -18,3 +18,11 @@ one more
     {
         doSomething(x);
     }
+
+---
+
+## Here is a list
+
+- One
+- Two
+- Three
